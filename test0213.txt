@@ -4,5 +4,6 @@ Summary 에 변경된 내용
 Description 설명 
 
 Commit to master 버튼
- 지움
  
+로컬에서 수정하면
+DeskTop에 Changes에 들어옴
